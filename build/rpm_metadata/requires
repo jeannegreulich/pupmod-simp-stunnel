@@ -3,8 +3,6 @@ Requires: pupmod-simp-haveged < 1.0.0-0
 Requires: pupmod-simp-haveged >= 0.3.0-0
 Requires: pupmod-simp-iptables < 7.0.0-0
 Requires: pupmod-simp-iptables >= 6.0.0-0
-Requires: pupmod-simp-openldap < 7.0.0-0
-Requires: pupmod-simp-openldap >= 6.0.0-0
 Requires: pupmod-simp-pki < 7.0.0-0
 Requires: pupmod-simp-pki >= 6.0.0-0
 Requires: pupmod-simp-simpcat < 7.0.0-0
